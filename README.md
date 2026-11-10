@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm R (@rshday) 👋
 
-<!--
-**rshday/rshday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering notes, system architecture, and language syntax guides.
 
-Here are some ideas to get you started:
+#### 🌐 Platforms & Projects
+- **[RYUSLOG DEV](https://www.ryuslog.com)** — Practical Software Engineering Notes & Syntax Guides
+  - [Python Syntax Guides](https://www.ryuslog.com/blog?category=Python)
+    - [Java Reference Guides](https://www.ryuslog.com/blog?category=Java)
+      - [C# Language Notes](https://www.ryuslog.com/blog?category=C%23)
+        - [Online Developer Tools](https://www.ryuslog.com/tools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        #### 🛠️ Tech Stack & Focus
+        - **Languages**: Python, Java, C#, Kotlin, TypeScript
+        - **Frameworks & Libs**: Next.js, React, Node.js, Spring, FastAPI
+        - **Cloud & Data**: Supabase, PostgreSQL, Docker, Kafka, Vercel
+        
