@@ -18,29 +18,32 @@ Everything is published at **[RYUSLOG DEV](https://www.ryuslog.com)**.
 | [Git](https://www.ryuslog.com/blog?category=Git) | 20 | [React](https://www.ryuslog.com/blog?category=React) | 20 |
 | [Next.js](https://www.ryuslog.com/blog?category=Next.js) | 20 | [Node.js](https://www.ryuslog.com/blog?category=Node.js) | 10 |
 
-Every guide is focused on one thing: the exact behaviour you hit in production, with the code
-that reproduces it and the fix that actually holds.
+Each guide sticks to one thing: the exact behaviour you meet in production, the code that
+reproduces it, and the fix that holds.
 
 ---
 
 #### 🛠 Developer tools — no upload, no sign-up, runs in your tab
 
-All 12 tools are client-side: your JSON, JWTs, and colours never leave the browser.
+All 15 tools are client-side: your JSON, JWTs and colours never leave the browser.
 
 | Tool | What it does |
 |---|---|
-| [JSON formatter & validator](https://www.ryuslog.com/tools/json) | Format, minify, and validate JSON; infer TypeScript types from a payload |
-| [YAML ↔ JSON](https://www.ryuslog.com/tools/yaml) | Convert between YAML and JSON with readable error positions |
-| [Diff viewer](https://www.ryuslog.com/tools/diff) | Myers diff for text and code with inline and side-by-side views |
-| [Regex tester](https://www.ryuslog.com/tools/regex) | Test patterns live, inspect capture groups, and explain matches |
-| [JWT decoder](https://www.ryuslog.com/tools/jwt) | Decode header/payload and verify HS256/384/512 signatures with Web Crypto |
-| [Base64 encoder](https://www.ryuslog.com/tools/base64) | Encode/decode text and files, UTF-8 safe |
-| [URL encoder](https://www.ryuslog.com/tools/url) | Percent-encode, decode, and inspect query strings |
-| [Hash generator](https://www.ryuslog.com/tools/hash) | MD5, SHA-1, SHA-256, SHA-512 via `crypto.subtle` |
-| [UUID generator](https://www.ryuslog.com/tools/uuid) | UUID v4/v7 and bulk generation |
-| [Unix timestamp converter](https://www.ryuslog.com/tools/timestamp) | Epoch ↔ ISO 8601 ↔ local time, in seconds or milliseconds |
-| [Cron parser](https://www.ryuslog.com/tools/cron) | Explain any 5- and 6-field cron expression and list the next run times |
-| [Colour converter](https://www.ryuslog.com/tools/color) | OKLCH/HEX/RGB/HSL conversion, WCAG 2.1 contrast checks, Tailwind snippets |
+| [JSON Formatter](https://www.ryuslog.com/tools/json) | Format, validate and minify JSON, and generate TypeScript interfaces from it |
+| [YAML ↔ JSON](https://www.ryuslog.com/tools/yaml) | Convert YAML configuration to JSON and back, with Kubernetes and GitHub Actions presets |
+| [Text Diff Checker](https://www.ryuslog.com/tools/diff) | Line-by-line diff with added/removed highlighting and an ignore-whitespace mode |
+| [Regex Tester](https://www.ryuslog.com/tools/regex) | Live match highlighting, capture groups and a replacement preview |
+| [SQL Formatter](https://www.ryuslog.com/tools/sql) | Format and minify SQL for PostgreSQL, MySQL and SQLite |
+| [CSV ↔ JSON](https://www.ryuslog.com/tools/csv-json) | Convert CSV, TSV or semicolon-separated data to JSON and back, with quoted fields |
+| [JWT Decoder](https://www.ryuslog.com/tools/jwt) | Decode the header and payload, read standard claims, and check whether the token is still valid |
+| [Base64](https://www.ryuslog.com/tools/base64) | UTF-8 text to Base64 and back, including URL-safe Base64 |
+| [URL Parser & Encoder](https://www.ryuslog.com/tools/url) | Split a URL into protocol, host, path and query parameters, or percent-encode text |
+| [Hash Generator](https://www.ryuslog.com/tools/hash) | MD5, SHA-1, SHA-256 and SHA-512 digests as you type |
+| [cURL to Code](https://www.ryuslog.com/tools/curl) | Turn a curl command into `fetch`, TypeScript, Python `requests` or Go `net/http` code |
+| [UUID Generator](https://www.ryuslog.com/tools/uuid) | 1 to 100 UUID v4 values, formatted for JSON or SQL |
+| [Timestamp Converter](https://www.ryuslog.com/tools/timestamp) | Unix timestamps and date strings in both directions, with relative time and time zones |
+| [Cron Parser](https://www.ryuslog.com/tools/cron) | Explain a five-field cron expression and list the next times it will run |
+| [Color & Contrast](https://www.ryuslog.com/tools/color) | HEX, RGB, HSL and OKLCH conversion, WCAG 2.1 contrast checks, CSS and Tailwind snippets |
 
 ---
 
